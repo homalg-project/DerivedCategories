@@ -1,7 +1,9 @@
+
+This package has been moved to [HigherHomologicalAlgebra](https://github.com/homalg-project/HigherHomologicalAlgebra) repository together with other related packages.
+
 # The GAP package DerivedCategories
 
 A Gap/Cap package to create derived categories and equivalences between them.
-
 
 # Contact
 
